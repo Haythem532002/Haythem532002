@@ -66,5 +66,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Haythem532002&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haythem532002&theme=2077" height="180em" />
 </div>
-
+<div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Haythem532002&" alt="Haythem532002" />
+</div>

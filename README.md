@@ -13,7 +13,7 @@
 - 📫 How to reach me **khiarih06@gmail.com**
 
 ### 🏆 Certification
-[![GitHub Foundation Certification](./images.jpg)](https://www.credly.com/badges/47f6f38d-6ca7-44cd-b218-10ddec379b35/public_url)
+[![GitHub Foundation Certification](./github-foundations.png)](https://www.credly.com/badges/47f6f38d-6ca7-44cd-b218-10ddec379b35/public_url)
 
 
 

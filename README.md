@@ -13,11 +13,11 @@
 ### 🏆 Certifications
 <div style="display:felx">
 <a href="https://www.credly.com/badges/47f6f38d-6ca7-44cd-b218-10ddec379b35/public_url">
-  <img src="./github-foundations.png" alt="GitHub Foundation Certification" width="200"/>
+  <img src="./github-foundations.png" alt="GitHub Foundation Certification" width="150"/>
 </a>
-<img src="./ccna.png" alt="CCNA Certification" width="200"/>
-<img src="./devnet.png" alt="DevNet Associate Certification" width="200"/>
-<img src="./ai.png" alt="AI Fundamentales Certification" width="200"/>
+<img src="./ccna.png" alt="CCNA Certification" width="150"/>
+<img src="./devnet.png" alt="DevNet Associate Certification" width="150"/>
+<img src="./ai.png" alt="AI Fundamentales Certification" width="150"/>
 </div>
 
 

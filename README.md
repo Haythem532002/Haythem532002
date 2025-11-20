@@ -6,7 +6,7 @@
 
 - 🔭 I’m interested to collaborate on any project that involves softrware development
 
-- 💬 Ask me about **Java, Spring, Spring boot, React, Angular, Docker, ....**
+- 💬 Ask me about **Docker, Kubernetes, Terraform, AWS, Jenkins, CI/CD, AWS,Java, Spring, Spring boot, React, Angular**
 
 - 📫 How to reach me **khiarih06@gmail.com**
 
